@@ -1,2 +1,2 @@
-# sampledata
-Sample data for all supported file formats
+# ledalab sampledata
+This repository contains sample data for all formats supported by ledalab.
